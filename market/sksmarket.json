@@ -1,8 +1,8 @@
 {
   "androidVersionCode": "4.7.4",
-  "offlineAppVersionCode": "4.7.4",
-  "windowsVersionCode": "4.7.4",
-  "webVersionCode": "4.7.4",
+  "offlineAppVersionCode": "4.7.5",
+  "windowsVersionCode": "4.7.5",
+  "webVersionCode": "4.7.5",
   "serviceVersion": 115,
   "updateHelperVersion": "3.0.1"
 }
