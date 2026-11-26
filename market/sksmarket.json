@@ -1,8 +1,8 @@
 {
-  "androidVersionCode": "4.8.9",
-  "offlineAppVersionCode": "4.9.4",
-  "windowsVersionCode": "4.9.4",
-  "webVersionCode": "4.9.4",
+  "androidVersionCode": "4.9.2",
+  "offlineAppVersionCode": "4.9.6",
+  "windowsVersionCode": "4.9.6",
+  "webVersionCode": "4.9.6",
   "serviceVersion": 135,
   "updateHelperVersion": "3.0.3"
 }
